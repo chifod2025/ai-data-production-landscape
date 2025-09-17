@@ -1,131 +1,101 @@
----
-layout: default
-title: AI Data Production Landscape
-description: A comprehensive analysis of artificial intelligence data production systems and methodologies
----
-
-<style>
-.hero-banner {
-  background: linear-gradient(135deg, #FFECD2 0%, #FCB69F 50%, #FFD700 100%);
-  padding: 4rem 2rem;
-  text-align: center;
-  margin-bottom: 3rem;
-  border-radius: 8px;
-}
-
-.hero-banner h1 {
-  color: #333;
-  font-size: 2.5rem;
-  margin-bottom: 1rem;
-  font-weight: 300;
-}
-
-.hero-banner p {
-  color: #666;
-  font-size: 1.2rem;
-  max-width: 600px;
-  margin: 0 auto;
-}
-
-.cards-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 2rem;
-  margin: 3rem 0;
-}
-
-.card {
-  background: #fff;
-  border: 1px solid #e1e1e1;
-  border-radius: 8px;
-  padding: 2rem;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 16px rgba(0,0,0,0.1);
-}
-
-.card h3 {
-  color: #333;
-  margin-bottom: 1rem;
-  font-size: 1.3rem;
-}
-
-.card p {
-  color: #666;
-  margin-bottom: 1.5rem;
-  line-height: 1.6;
-}
-
-.card-link {
-  color: #FCB69F;
-  text-decoration: none;
-  font-weight: 500;
-  border-bottom: 1px solid transparent;
-  transition: border-color 0.2s ease;
-}
-
-.card-link:hover {
-  border-bottom-color: #FCB69F;
-}
-
-.footer {
-  margin-top: 4rem;
-  padding: 2rem 0;
-  border-top: 1px solid #e1e1e1;
-  color: #666;
-  text-align: center;
-}
-
-@media (max-width: 768px) {
-  .hero-banner h1 {
-    font-size: 2rem;
-  }
-  
-  .hero-banner p {
-    font-size: 1rem;
-  }
-  
-  .cards-grid {
-    grid-template-columns: 1fr;
-  }
-}
-</style>
-
+<!-- HERO -->
 <div class="hero-banner">
   <h1>AI Data Production Landscape</h1>
-  <p>A comprehensive analysis of artificial intelligence data production systems, methodologies, and empirical findings</p>
+  <p>Companion repository for the CHI2026 submission:
+  <em>“Extractive Patterns and Equitable Pathways: A Landscape Analysis of AI Data Production Through Pipeline and Historical Perspectives.”</em></p>
 </div>
 
+<!-- ABSTRACT -->
+<section id="abstract" style="margin:20px 0;">
+  <h2>Abstract</h2>
+  <p style="max-width:900px;">
+    Artificial intelligence depends on data production processes that transform human knowledge into computational resources. Many approaches reproduce extractive dynamics rooted in histories of appropriation and dispossession. We conduct a multivocal landscape analysis of 350 sources on the relationship between AI systems, data production, and impacts on Indigenous, underrepresented, and underserved communities worldwide. Our synthesis identifies twelve extractive patterns and eleven less-extractive alternatives across the AI development pipeline. The literature exhibits an action gap: 256 sources diagnose extractive practices or advance normative principles, yet only 94 document concrete alternative practices. We contribute (1) a conceptual shift from data collection to data production that foregrounds sociotechnical complexity and power dynamics; (2) empirical mapping of sources across pipeline stages, historical eras, and geographic contexts; (3) an interpretive synthesis methodology bridging critical theory with technical analysis; and (4) an open corpus and interactive tools to support further inquiry.
+  </p>
+</section>
+
+<!-- TAXONOMY -->
+<section id="taxonomy" style="margin:28px 0;">
+  <h2>Taxonomy</h2>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;">
+    <div class="card">
+      <h3>Twelve extractive patterns</h3>
+      <ol>
+        <li>Excluding underrepresented groups from decision-making</li>
+        <li>Collecting vast amounts of data to train AI systems</li>
+        <li>Reproducing biases through synthetic data generation</li>
+        <li>Scraping or repurposing sensitive data</li>
+        <li>Prioritizing data wants over community needs</li>
+        <li>Soliciting data without reciprocal benefits</li>
+        <li>Exploitative and invisible data labor</li>
+        <li>Biased pre-processing and category erasure</li>
+        <li>Keeping communities in the dark through opaque data practices</li>
+        <li>Ethics dumping in less-regulated contexts</li>
+        <li>Deploying AI systems trained without local, contextual data</li>
+        <li>Western-centric research infrastructures</li>
+      </ol>
+    </div>
+
+    <div class="card">
+      <h3>Eleven less-extractive pathways</h3>
+      <ol>
+        <li>Decentering Western ontologies</li>
+        <li>Taking a needs-based approach to developing AI</li>
+        <li>Early co-design and participatory initiatives</li>
+        <li>Establishing consent and contextually appropriate compensation</li>
+        <li>Creating culturally inclusive datasets</li>
+        <li>Community engaged data production</li>
+        <li>Crowdsourcing data collection</li>
+        <li>Building public visibility in dataset development</li>
+        <li>Developing equitable data licensing models</li>
+        <li>Developing federated data spaces</li>
+        <li>Participatory data ownership and governance</li>
+      </ol>
+    </div>
+  </div>
+</section>
+
+<!-- FIGURES -->
+<section id="figures" style="margin:28px 0;">
+  <h2>Overview Diagrams</h2>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;">
+    <figure class="card" style="text-align:center;">
+      <img src="assets/triangle.png" alt="A/D/C Triangle diagram" style="max-width:100%;height:auto;border-radius:12px;">
+      <figcaption class="small-note">Triangle: orientations linking Artificial Intelligence, Data Production, and Community Impacts.</figcaption>
+    </figure>
+    <figure class="card" style="text-align:center;">
+      <img src="assets/pipeline.png" alt="AI development pipeline diagram" style="max-width:100%;height:auto;border-radius:12px;">
+      <figcaption class="small-note">Pipeline: problem understanding → ML design & development → deployment & impact.</figcaption>
+    </figure>
+  </div>
+</section>
+
+<!-- RESOURCES -->
 <div class="cards-grid">
   <div class="card">
+    <h3>Paper draft</h3>
+    <p>Latest CHI2026 manuscript (PDF).</p>
+    <a href="CHI2026_FutureOfData_v3.pdf" class="card-link">Download PDF →</a>
+  </div>
+
+  <div class="card">
     <h3>Dataset</h3>
-    <p>Curated collection of AI data production metrics, system performance indicators, and production pipeline characteristics across diverse organizational contexts.</p>
-    <a href="../data/processed/dataset.csv" class="card-link">View Dataset →</a>
+    <p>Raw spreadsheet and CSV export.</p>
+    <a href="../data/raw/ai-data-production-landscape.xlsx" class="card-link">Raw Excel →</a><br>
+    <a href="../data/processed/dataset.csv" class="card-link">Processed CSV →</a>
   </div>
 
   <div class="card">
-    <h3>Collections</h3>
-    <p>Structured repositories of supplementary materials, code implementations, and methodological artifacts supporting the research findings.</p>
-    <a href="../collections/" class="card-link">Browse Collections →</a>
-  </div>
-
-  <div class="card">
-    <h3>Paper</h3>
-    <p>Research manuscript examining patterns, challenges, and emerging practices in contemporary AI data production workflows and organizational implementations.</p>
-    <a href="../paper/draft/" class="card-link">Read Paper →</a>
-  </div>
-
-  <div class="card">
-    <h3>About</h3>
-    <p>Project overview, methodology documentation, and contextual information regarding data collection procedures and analytical frameworks employed.</p>
-    <a href="../README.md" class="card-link">Learn More →</a>
+    <h3>NotebookLM collections</h3>
+    <p>Direct links (≤50 items each).</p>
+    <ul style="margin:0 0 0 1rem;">
+      <li><a href="https://notebooklm.google/REPLACE-EXTRACTIVE" target="_blank" rel="noopener">Extractive</a></li>
+      <li><a href="https://notebooklm.google/REPLACE-PRINCIPLES" target="_blank" rel="noopener">Principles</a></li>
+      <li><a href="https://notebooklm.google/REPLACE-PRACTICES" target="_blank" rel="noopener">Practices</a></li>
+    </ul>
   </div>
 </div>
 
+<!-- FOOTER -->
 <div class="footer">
-  <p>This research contributes to understanding AI data production systems in academic and industry contexts.</p>
+  <p>Data: CC BY 4.0 · Code/text: MIT · Anonymous repository</p>
 </div>
