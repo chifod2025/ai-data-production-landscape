@@ -60,8 +60,8 @@ dimensions that inform AI data production practices.
             <li>Biased pre-processing and category erasure</li>
             <li>Opaque data practices</li>
             <li>Ethics dumping</li>
-            <li>Deploying AI without local, contextual data</li>
-            <li>Western-centric infrastructures</li>
+            <li>Deploying AI systems trained without local, contextual data</li>
+            <li>Western-centric research infrastructures</li>
           </ol>
         </div>
         
@@ -69,16 +69,16 @@ dimensions that inform AI data production practices.
           <h3>Less-extractive pathways</h3>
           <ol>
             <li>Decentering Western ontologies</li>
-            <li>Needs-based development</li>
-            <li>Early co-design and participation</li>
-            <li>Consent and appropriate compensation</li>
-            <li>Culturally inclusive datasets</li>
+            <li>Taking a needs-based approach to developing AI</li>
+            <li>Early co-design and participatory initiatives</li>
+            <li>Establishing consent and contextually appropriate compensation</li>
+            <li>Creating culturally inclusive datasets</li>
             <li>Community-engaged data production</li>
-            <li>Crowdsourcing with safeguards</li>
-            <li>Public visibility in dataset development</li>
-            <li>Equitable data licensing</li>
-            <li>Federated data spaces</li>
-            <li>Participatory ownership and governance</li>
+            <li>Crowdsourcing data collection</li>
+            <li>Building public visibility in dataset development</li>
+            <li>Developing equitable data licensing models</li>
+            <li>Developing federated data spaces</li>
+            <li>Participatory data ownership and governance</li>
           </ol>
         </div>
       </div>
