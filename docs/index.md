@@ -40,7 +40,7 @@ dimensions that inform AI data production practices.
           Fig. 2. AI Development Pipeline with interconnected analytical dimensions. Three sine waves represent Community Impacts (green), Artificial Intelligence (purple), and Data Production (orange) flowing continuously through all pipeline stages, illustrating how these dimensions are present throughout the development process rather than confined to specific stages.
         </figcaption>
       </figure>
-    </section>
+ 
 
     <!-- TAXONOMY -->
     <section id="taxonomy">
