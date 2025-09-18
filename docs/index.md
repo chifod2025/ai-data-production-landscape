@@ -13,7 +13,7 @@
       Perspectives.”</em>
     </h1>
     <div class="links">
-      <a href="./V3-paper.pdf">📄 Read the draft paper</a>
+      <a href="./V2_Extractive_Patterns_and_Equitable_Pathways.pdf">📄 Read the draft paper</a>
       <a href="https://github.com/chifod2025/ai-data-production-landscape" target="_blank" rel="noopener">GitHub repository</a>
     </div>
   </header>
@@ -90,7 +90,7 @@ dimensions that inform AI data production practices.
       <div class="cards">
         <div class="card">
           <h3>Paper</h3>
-          <p><a href="./V3-paper.pdf">Read the paper (PDF)</a></p>
+          <p><a href="./V2_Extractive_Patterns_and_Equitable_Pathways.pdf">Read the latest paper draft (PDF)</a></p>
         </div>
         <div class="card">
           <h3>Dataset</h3>
