@@ -101,11 +101,12 @@ dimensions that inform AI data production practices.
           </p>
         </div>
         <div class="card">
-          <h3>Interactive collections</h3>
-          <p>
-            <a href="https://notebooklm.google/REPLACE-EXTRACTIVE" target="_blank" rel="noopener">Extractive</a> ·
-            <a href="https://notebooklm.google/REPLACE-PRINCIPLES" target="_blank" rel="noopener">Principles</a> ·
-            <a href="https://notebooklm.google/REPLACE-PRACTICES" target="_blank" rel="noopener">Practices</a>
+          <h3>Interactive collections (open-source</h3>
+          <p>Curated sets of publicly available sources (≤50 per collection), grouped by orientation.</p>
+            <a href="https://notebooklm.google.com/notebook/a048fa59-64b2-4b13-a98e-0e739bca49d7" target="_blank" rel="noopener">Extractive Patterns</a> ·
+            <a href="https://notebooklm.google.com/notebook/f11a7a3b-dfbf-47a1-93e9-ee53683611ba" target="_blank" rel="noopener">Less-Extractive Principles</a> ·
+            <a href="https://notebooklm.google.com/notebook/bd97ea3f-b516-48d5-b8c6-720ca8e47bca" target="_blank" rel="noopener">Less-Extractive Practices</a>
+  
           </p>
         </div>
       </div>
