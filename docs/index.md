@@ -1,9 +1,8 @@
-<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>AI Data Production Landscape</title>
+  <title>Extractive Patterns and Equitable Pathways: A Landscape Analysis of AI Data Production Through Pipeline and Historical Perspectives</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
@@ -79,19 +78,26 @@
     </section>
 
     <!-- DIAGRAMS -->
-    <section id="figures" class="section">
-      <h2>Overview Diagrams</h2>
-      <div class="grid two">
-        <figure class="card fig">
-          <img src="./assets/tri-2.png" alt="Orientation triangle diagram" />
-          <figcaption>Triangle: orientations (extractive patterns, less-extractive principles, less-extractive practices).</figcaption>
-        </figure>
-        <figure class="card fig">
-          <img src="./assets/pipe-1.png" alt="AI development pipeline diagram" />
-          <figcaption>Pipeline: problem understanding → ML design & development → deployment & impact.</figcaption>
-        </figure>
-      </div>
-    </section>
+<section id="figures" class="section">
+  <h2>Overview Diagrams</h2>
+
+  <!-- Triangle card -->
+  <div style="max-width:400px;margin:0 auto 40px;">
+    <div class="card fig">
+      <img src="./assets/tri-2.png" alt="Orientation triangle diagram" />
+      <figcaption>Triangle: orientations (extractive patterns, less-extractive principles, less-extractive practices).</figcaption>
+    </div>
+  </div>
+
+  <!-- Pipeline full-width -->
+  <div style="text-align:center;margin-top:40px;">
+    <img src="./assets/pipe-1.png" alt="AI development pipeline diagram" style="max-width:900px;width:100%;height:auto;" />
+    <p style="color:#555;font-size:.95rem;margin-top:.6rem;">
+      Pipeline: problem understanding → ML design &amp; development → deployment &amp; impact.
+    </p>
+  </div>
+</section>
+
 
     <!-- RESOURCES -->
     <section id="resources" class="section">
