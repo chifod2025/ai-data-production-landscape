@@ -104,8 +104,7 @@ dimensions that inform AI data production practices.
             <a href="https://notebooklm.google.com/notebook/a048fa59-64b2-4b13-a98e-0e739bca49d7" target="_blank" rel="noopener">Extractive Patterns</a> ·
             <a href="https://notebooklm.google.com/notebook/f11a7a3b-dfbf-47a1-93e9-ee53683611ba" target="_blank" rel="noopener">Less-Extractive Principles</a> ·
             <a href="https://notebooklm.google.com/notebook/bd97ea3f-b516-48d5-b8c6-720ca8e47bca" target="_blank" rel="noopener">Less-Extractive Practices</a>
-  
-          </p>
+
         </div>
       </div>
     </section>
