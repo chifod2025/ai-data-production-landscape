@@ -7,7 +7,6 @@
 </head>
 <body>
   <header class="container">
-    <h1>AI Data Production Landscape</h1>
     <p>
       Welcome to the companion repository for <em>“Extractive Patterns and Equitable Pathways:
       A Landscape Analysis of AI Data Production Through Pipeline and Historical
