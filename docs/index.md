@@ -6,15 +6,6 @@
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <!-- NAVBAR -->
-<nav class="navbar">
-  <div class="nav-inner">
-    <a href="#abstract">Abstract</a>
-    <a href="#taxonomy">Taxonomy</a>
-    <a href="#figures">Figures</a>
-    <a href="#resources">Resources</a>
-  </div>
-</nav>
 
   <!-- HERO -->
   <header class="hero">
