@@ -59,11 +59,13 @@
   <h2>Overview Diagrams</h2>
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;">
     <figure class="card" style="text-align:center;">
-      <img src="assets/tri-2.pdf" alt="A/D/C Triangle diagram" style="max-width:100%;height:auto;border-radius:12px;">
-      <figcaption class="small-note">Triangle: orientations linking Artificial Intelligence, Data Production, and Community Impacts.</figcaption>
+      <!-- export your PDF figure to PNG/JPG and name it triangle.png -->
+      <img src="assets/triangle.png" alt="Orientation triangle diagram" style="max-width:100%;height:auto;border-radius:12px;">
+      <figcaption class="small-note">Triangle: orientations (extractive patterns, less-extractive principles, less-extractive practices).</figcaption>
     </figure>
     <figure class="card" style="text-align:center;">
-      <img src="assets/pipe-1.pdf" alt="AI development pipeline diagram" style="max-width:100%;height:auto;border-radius:12px;">
+      <!-- export your PDF figure to PNG/JPG and name it pipeline.png -->
+      <img src="assets/pipeline.png" alt="AI development pipeline diagram" style="max-width:100%;height:auto;border-radius:12px;">
       <figcaption class="small-note">Pipeline: problem understanding → ML design & development → deployment & impact.</figcaption>
     </figure>
   </div>
