@@ -26,7 +26,9 @@
       <figure>
         <img src="./assets/tri-2.png" alt="Orientation triangle diagram" />
         <figcaption>
-          Triangle: orientations (extractive patterns, less-extractive principles, less-extractive practices).
+          Fig. 1. A/D/C analytical framework for source analysis. Sources were coded based on substantive engagement with Community
+Impacts (C), Artificial Intelligence (A), and/or Data Production (D). Arrows indicate the interconnected relationships between
+dimensions that inform AI data production practices.
         </figcaption>
       </figure>
     </section>
@@ -40,7 +42,7 @@
       <figure>
         <img src="./assets/pipe-1.png" alt="AI development pipeline diagram" />
         <figcaption>
-          Pipeline: problem understanding → ML design &amp; development → deployment &amp; impact.
+          Fig. 2. AI Development Pipeline with interconnected analytical dimensions. Three sine waves represent Community Impacts (green), Artificial Intelligence (purple), and Data Production (orange) flowing continuously through all pipeline stages, illustrating how these dimensions are present throughout the development process rather than confined to specific stages.
         </figcaption>
       </figure>
     </section>
