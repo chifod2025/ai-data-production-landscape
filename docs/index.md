@@ -7,11 +7,11 @@
 </head>
 <body>
   <header class="container">
-    <p>
+   <h1>
       Welcome to the companion repository for <em>“Extractive Patterns and Equitable Pathways:
       A Landscape Analysis of AI Data Production Through Pipeline and Historical
       Perspectives.”</em>
-    </p>
+    </h1>
     <div class="links">
       <a href="./V3-paper.pdf">📄 Read the draft paper</a>
       <a href="https://github.com/chifod2025/ai-data-production-landscape" target="_blank" rel="noopener">GitHub repository</a>
