@@ -7,14 +7,24 @@
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
+  <!-- NAVBAR -->
+<nav class="navbar">
+  <div class="nav-inner">
+    <a href="#abstract">Abstract</a>
+    <a href="#taxonomy">Taxonomy</a>
+    <a href="#figures">Figures</a>
+    <a href="#resources">Resources</a>
+  </div>
+</nav>
+
   <!-- HERO -->
   <header class="hero">
     <div class="hero__inner">
       <h1>AI Data Production Landscape</h1>
       <p>Companion repository for “Extractive Patterns and Equitable Pathways: A Landscape Analysis of AI Data Production Through Pipeline and Historical Perspectives.”</p>
       <div class="cta">
-        <a class="btn" href="./V3-paper.pdf">Download paper (PDF)</a>
-        <a class="btn btn--ghost" href="https://github.com/chifod2025/ai-data-production-landscape" target="_blank" rel="noopener">View on GitHub</a>
+        <a class="btn" href="./V3-paper.pdf">View paper (PDF)</a>
+        <a class="btn btn--ghost" href="https://github.com/chifod2025/ai-data-production-landscape" target="_blank" rel="noopener">View project on GitHub</a>
       </div>
     </div>
   </header>
@@ -104,7 +114,7 @@
           <h3>NotebookLM links</h3>
           <p>Direct collections (≤50 items each).</p>
           <ul class="links">
-            <li><a class="link" href="https://notebooklm.google/REPLACE-EXTRACTIVE" target="_blank" rel="noopener">Extractive</a></li>
+            <li><a class="link" href="https://notebooklm.google.com/notebook/a048fa59-64b2-4b13-a98e-0e739bca49d7" target="_blank" rel="noopener">Extractive Patterns</a></li>
             <li><a class="link" href="https://notebooklm.google/REPLACE-PRINCIPLES" target="_blank" rel="noopener">Principles</a></li>
             <li><a class="link" href="https://notebooklm.google/REPLACE-PRACTICES" target="_blank" rel="noopener">Practices</a></li>
           </ul>
