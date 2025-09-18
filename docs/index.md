@@ -59,11 +59,11 @@
   <h2>Overview Diagrams</h2>
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;">
     <figure class="card" style="text-align:center;">
-      <img src="assets/tri-color.pdf" alt="A/D/C Triangle diagram" style="max-width:100%;height:auto;border-radius:12px;">
+      <img src="assets/tri-2.pdf" alt="A/D/C Triangle diagram" style="max-width:100%;height:auto;border-radius:12px;">
       <figcaption class="small-note">Triangle: orientations linking Artificial Intelligence, Data Production, and Community Impacts.</figcaption>
     </figure>
     <figure class="card" style="text-align:center;">
-      <img src="assets/Pipe-sine.pdf" alt="AI development pipeline diagram" style="max-width:100%;height:auto;border-radius:12px;">
+      <img src="assets/pipe-1.pdf" alt="AI development pipeline diagram" style="max-width:100%;height:auto;border-radius:12px;">
       <figcaption class="small-note">Pipeline: problem understanding → ML design & development → deployment & impact.</figcaption>
     </figure>
   </div>
