@@ -13,7 +13,7 @@
   </p>
 </section>
 
-<!-- TAXONOMY -->
+<!-- TAXONOMY (unchanged) -->
 <section id="taxonomy" style="margin:28px 0;">
   <h2>Taxonomy</h2>
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;">
@@ -34,7 +34,6 @@
         <li>Western-centric research infrastructures</li>
       </ol>
     </div>
-
     <div class="card">
       <h3>Eleven less-extractive pathways</h3>
       <ol>
@@ -59,14 +58,16 @@
   <h2>Overview Diagrams</h2>
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;">
     <figure class="card" style="text-align:center;">
-      <!-- export your PDF figure to PNG/JPG and name it triangle.png -->
-      <img src="assets/tri-2.png" alt="Orientation triangle diagram" style="max-width:100%;height:auto;border-radius:12px;">
+      <!-- ensure this file exists at docs/assets/triangle.png -->
+      <img src="./assets/triangle.png" alt="Orientation triangle diagram"
+           style="max-width:100%;height:auto;border-radius:12px;">
       <figcaption class="small-note">Triangle: orientations (extractive patterns, less-extractive principles, less-extractive practices).</figcaption>
     </figure>
     <figure class="card" style="text-align:center;">
-      <!-- export your PDF figure to PNG/JPG and name it pipeline.png -->
-      <img src="assets/pipe-1.png" alt="AI development pipeline diagram" style="max-width:100%;height:auto;border-radius:12px;">
-      <figcaption class="small-note">Pipeline: problem understanding → ML design & development → deployment & impact.</figcaption>
+      <!-- ensure this file exists at docs/assets/pipeline.png -->
+      <img src="./assets/pipeline.png" alt="AI development pipeline diagram"
+           style="max-width:100%;height:auto;border-radius:12px;">
+      <figcaption class="small-note">Pipeline: problem understanding → ML design &amp; development → deployment &amp; impact.</figcaption>
     </figure>
   </div>
 </section>
@@ -76,14 +77,20 @@
   <div class="card">
     <h3>Paper draft</h3>
     <p>Latest CHI2026 manuscript (PDF).</p>
-    <a href="V3-paper.pdf" class="card-link">Download PDF →</a>
+    <!-- paper is inside docs/ -->
+    <a href="./V3-paper.pdf" class="card-link">Download PDF →</a>
   </div>
 
   <div class="card">
     <h3>Dataset</h3>
     <p>Raw spreadsheet and CSV export.</p>
-    <a href="../data/raw/ai-data-production-landscape.xlsx" class="card-link">Raw Excel →</a><br>
-    <a href="../data/processed/dataset.csv" class="card-link">Processed CSV →</a>
+    <!-- use raw GitHub URLs because /data is outside /docs -->
+    <p style="margin:6px 0;">
+      <a class="card-link" href="https://raw.githubusercontent.com/chifod2025/ai-data-production-landscape/main/data/raw/ai-data-production-landscape.xlsx">Raw Excel →</a>
+    </p>
+    <p style="margin:6px 0;">
+      <a class="card-link" href="https://raw.githubusercontent.com/chifod2025/ai-data-production-landscape/main/data/processed/dataset.csv">Processed CSV →</a>
+    </p>
   </div>
 
   <div class="card">
