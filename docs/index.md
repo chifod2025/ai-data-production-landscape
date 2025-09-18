@@ -117,5 +117,3 @@ dimensions that inform AI data production practices.
       <p>Email: <a href="mailto:chifod2025@gmail.com">chifod2025@gmail.com</a></p>
     </section>
   </main>
-</body>
-</html>
