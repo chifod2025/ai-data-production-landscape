@@ -95,15 +95,22 @@ dimensions that inform AI data production practices.
         <div class="card">
           <h3>Dataset</h3>
           <p>
-            <a href="https://docs.google.com/spreadsheets/d/1NJBIsDhtqp5CrCTJtfccObCneRLaRtoun6VfPuNTims/edit?usp=sharing" target="_blank" rel="noopener">Live Google Sheet</a> · <a href="https://github.com/chifod2025/ai-data-production-landscape/blob/main/data/raw/ai-data-production-landscape.xlsx">Raw Excel</a> · <a href="https://github.com/chifod2025/ai-data-production-landscape/blob/main/data/processed/dataset.csv">Processed CSV</a>
+            <ul>
+    <li><a href="https://docs.google.com/spreadsheets/d/1NJBIsDhtqp5CrCTJtfccObCneRLaRtoun6VfPuNTims/edit?usp=sharing" target="_blank" rel="noopener">Live Google Sheet</a></li> 
+    <li><a href="https://github.com/chifod2025/ai-data-production-landscape/blob/main/data/raw/ai-data-production-landscape.xlsx">Raw Excel</a></li>
+    <li><a href="https://github.com/chifod2025/ai-data-production-landscape/blob/main/data/processed/dataset.csv">Processed CSV</a></li>
+    </ul>
           </p>
         </div>
         <div class="card">
           <h3>Interactive collections (open-source</h3>
           <p>Curated sets of publicly available sources (≤50 per collection), grouped by orientation.</p>
-            <a href="https://notebooklm.google.com/notebook/a048fa59-64b2-4b13-a98e-0e739bca49d7" target="_blank" rel="noopener">Extractive Patterns</a> ·
-            <a href="https://notebooklm.google.com/notebook/f11a7a3b-dfbf-47a1-93e9-ee53683611ba" target="_blank" rel="noopener">Less-Extractive Principles</a> ·
-            <a href="https://notebooklm.google.com/notebook/bd97ea3f-b516-48d5-b8c6-720ca8e47bca" target="_blank" rel="noopener">Less-Extractive Practices</a>
+          <ul>
+    <li><a href="https://notebooklm.google.com/notebook/a048fa59-64b2-4b13-a98e-0e739bca49d7" target="_blank" rel="noopener">Extractive Patterns</a></li>
+    <li><a href="https://notebooklm.google.com/notebook/f11a7a3b-dfbf-47a1-93e9-ee53683611ba" target="_blank" rel="noopener">Less-Extractive Principles</a></li>
+    <li><a href="https://notebooklm.google.com/notebook/bd97ea3f-b516-48d5-b8c6-720ca8e47bca" target="_blank" rel="noopener">Less-Extractive Practices</a></li>
+  </ul>
+      
 
         </div>
       </div>
