@@ -93,6 +93,16 @@ figure figcaption {
   flex-wrap: wrap;
 }
 
+.card ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.card ul li {
+  margin: 4px 0;
+}
+
 .card {
   flex: 1;
   min-width: 200px;
