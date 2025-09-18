@@ -74,7 +74,7 @@
   <div class="card">
     <h3>Paper draft</h3>
     <p>Latest CHI2026 manuscript (PDF).</p>
-    <a href="CHI2026_FutureOfData_v3.pdf" class="card-link">Download PDF →</a>
+    <a href="V3 post-submission Extractive_Patterns_and_Equitable_Pathways paper.pdf" class="card-link">Download PDF →</a>
   </div>
 
   <div class="card">
