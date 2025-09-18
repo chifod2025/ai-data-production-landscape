@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -68,6 +67,7 @@
             <li>Western-centric infrastructures</li>
           </ol>
         </div>
+        
         <div class="card">
           <h3>Less-extractive pathways</h3>
           <ol>
