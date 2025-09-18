@@ -95,9 +95,7 @@ dimensions that inform AI data production practices.
         <div class="card">
           <h3>Dataset</h3>
           <p>
-            <a href="https://docs.google.com/spreadsheets/d/1NJBIsDhtqp5CrCTJtfccObCneRLaRtoun6VfPuNTims/edit?usp=sharing" target="_blank" rel="noopener">Live Google Sheet</a>
-            <a href="https://github.com/chifod2025/ai-data-production-landscape/blob/main/data/raw/ai-data-production-landscape.xlsx">Raw Excel</a> ·
-            <a href="https://github.com/chifod2025/ai-data-production-landscape/blob/main/data/processed/dataset.csv">Processed CSV</a>
+            <a href="https://docs.google.com/spreadsheets/d/1NJBIsDhtqp5CrCTJtfccObCneRLaRtoun6VfPuNTims/edit?usp=sharing" target="_blank" rel="noopener">Live Google Sheet</a> · <a href="https://github.com/chifod2025/ai-data-production-landscape/blob/main/data/raw/ai-data-production-landscape.xlsx">Raw Excel</a> · <a href="https://github.com/chifod2025/ai-data-production-landscape/blob/main/data/processed/dataset.csv">Processed CSV</a>
           </p>
         </div>
         <div class="card">
