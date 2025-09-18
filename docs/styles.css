@@ -112,3 +112,12 @@ ol.tight li { margin:.25rem 0; }
   color:var(--muted);
   font-size:.9rem;
 }
+
+/* Section separators */
+.section {
+  margin: 60px 0;
+  padding-bottom: 40px;
+  border-bottom: 3px solid transparent;
+  border-image: linear-gradient(to right, var(--brand1), var(--brand2), var(--brand3));
+  border-image-slice: 1;
+}
