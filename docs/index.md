@@ -9,20 +9,23 @@
   <header class="container">
     <h1>AI Data Production Landscape</h1>
     <p>
-      Companion repository for <em>“Extractive Patterns and Equitable Pathways:
+      Welcome to the companion repository for <em>“Extractive Patterns and Equitable Pathways:
       A Landscape Analysis of AI Data Production Through Pipeline and Historical
       Perspectives.”</em>
     </p>
     <div class="links">
-      <a href="./V3-paper.pdf">📄 Read the paper</a>
+      <a href="./V3-paper.pdf">📄 Read the draft paper</a>
       <a href="https://github.com/chifod2025/ai-data-production-landscape" target="_blank" rel="noopener">GitHub repository</a>
     </div>
   </header>
-
-  <main class="container">
-    <!-- ORIENTATION DIAGRAM -->
-    <section id="orientations">
-      <h2>Orientations</h2>
+    <!-- ABSTRACT -->
+    <section id="abstract">
+      <h2>Abstract</h2>
+      <p>
+        Artificial intelligence depends on data production processes that transform human knowledge into computational resources. Many approaches reproduce extractive dynamics rooted in histories of appropriation and dispossession. We conduct a multivocal landscape analysis of 350 sources on the relationship between AI systems, data production, and impacts on Indigenous, underrepresented, and underserved communities worldwide. Our synthesis identifies twelve extractive patterns and eleven less-extractive alternatives across the AI development pipeline. The literature exhibits an action gap: 256 sources diagnose extractive practices or advance normative principles, yet only 94 document concrete alternative practices. We contribute (1) a conceptual shift from data collection to data production that foregrounds sociotechnical complexity and power dynamics; (2) empirical mapping of sources across pipeline stages, historical eras, and geographic contexts; (3) an interpretive synthesis methodology bridging critical theory with technical analysis; and (4) an open corpus and interactive tools to support further inquiry.
+      </p>
+        <main class="container">
+ 
       <figure>
         <img src="./assets/tri-2.png" alt="Orientation triangle diagram" />
         <figcaption>
@@ -31,14 +34,7 @@ Impacts (C), Artificial Intelligence (A), and/or Data Production (D). Arrows ind
 dimensions that inform AI data production practices.
         </figcaption>
       </figure>
-    </section>
-
-    <!-- ABSTRACT -->
-    <section id="abstract">
-      <h2>Abstract</h2>
-      <p>
-        Artificial intelligence depends on data production processes that transform human knowledge into computational resources. Many approaches reproduce extractive dynamics rooted in histories of appropriation and dispossession. We conduct a multivocal landscape analysis of 350 sources on the relationship between AI systems, data production, and impacts on Indigenous, underrepresented, and underserved communities worldwide. Our synthesis identifies twelve extractive patterns and eleven less-extractive alternatives across the AI development pipeline. The literature exhibits an action gap: 256 sources diagnose extractive practices or advance normative principles, yet only 94 document concrete alternative practices. We contribute (1) a conceptual shift from data collection to data production that foregrounds sociotechnical complexity and power dynamics; (2) empirical mapping of sources across pipeline stages, historical eras, and geographic contexts; (3) an interpretive synthesis methodology bridging critical theory with technical analysis; and (4) an open corpus and interactive tools to support further inquiry.
-      </p>
+          
       <figure>
         <img src="./assets/pipe-1.png" alt="AI development pipeline diagram" />
         <figcaption>
