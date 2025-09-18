@@ -60,12 +60,12 @@
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;">
     <figure class="card" style="text-align:center;">
       <!-- export your PDF figure to PNG/JPG and name it triangle.png -->
-      <img src="assets/triangle.png" alt="Orientation triangle diagram" style="max-width:100%;height:auto;border-radius:12px;">
+      <img src="assets/tri-2.png" alt="Orientation triangle diagram" style="max-width:100%;height:auto;border-radius:12px;">
       <figcaption class="small-note">Triangle: orientations (extractive patterns, less-extractive principles, less-extractive practices).</figcaption>
     </figure>
     <figure class="card" style="text-align:center;">
       <!-- export your PDF figure to PNG/JPG and name it pipeline.png -->
-      <img src="assets/pipeline.png" alt="AI development pipeline diagram" style="max-width:100%;height:auto;border-radius:12px;">
+      <img src="assets/pipe-1.png" alt="AI development pipeline diagram" style="max-width:100%;height:auto;border-radius:12px;">
       <figcaption class="small-note">Pipeline: problem understanding → ML design & development → deployment & impact.</figcaption>
     </figure>
   </div>
